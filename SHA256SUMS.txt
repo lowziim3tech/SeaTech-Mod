@@ -1,2 +1,2 @@
 6cf14a5aced2333fe1ad1d8a1818031ba2f8feb83da1cedf933be40be7e85e91  mods/SeaTechCrafter-1.21.11-1.0.0.jar
-32462e18a330158366e0d5857b29f543fc31cdbca860620c25119a6dc06dec3a  mods/SeaTech-Easyplace-1.21.11-1.0.3.jar
+3d0aec7957da620262474c5f84fea92e462900b4f06fd22035e9339c2ad81bc9  mods/SeaTech-Easyplace-1.21.11-1.0.5.jar
